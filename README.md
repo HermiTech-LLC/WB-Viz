@@ -1,39 +1,34 @@
-# Interactive 3D Visualization of Alcubierre Warp Bubble
+# Alcubierre Warp Drive Interactive Study
 
 ## Overview
 
-This project offers an interactive 3D visualization of the Alcubierre Warp Bubble, a concept from theoretical physics proposing a method of faster-than-light travel within the framework of general relativity. It utilizes Python and various libraries to enable users to dynamically adjust parameters and visualize the effects on the warp bubble.
+This project presents a comprehensive study of the Alcubierre Warp Drive, a theoretical model in physics for faster-than-light travel within general relativity. The study encompasses theoretical foundations, mathematical formulations, and interactive visualizations, offering a rich understanding suitable for both academic and practical exploration.
 
-## Installation
+## Document Structure
 
-### Prerequisites
+The Markdown document consists of various sections:
 
-- Python 3.x
-- Jupyter Notebook or JupyterLab environment
-- Key Python libraries: NumPy, Plotly, and ipywidgets
+- **Theoretical Background**: Introduces the Alcubierre Warp Drive, its scientific basis, and the concept of a warp bubble.
+- **Mathematical Formulation**: Delves into the equations and calculations that underpin the warp drive concept.
+- **Non-Uniform Grid Generation**: Discusses a method for creating detailed visualizations in specific areas, critical for modeling the warp bubble.
+- **Static Visualization**: A predefined 3D representation of the warp bubble, demonstrating the model with set parameters.
+- **Interactive Experimentation**: Enables users to manipulate key variables of the warp drive equation, providing a hands-on approach to understand the model's dynamics.
+- **Conclusion and Further Research**: Summarizes the study and suggests directions for additional investigation.
 
-### Setting Up
+## Getting Started
 
-To set up the project, ensure you have Python installed, and then install the necessary libraries (NumPy for numerical computations, Plotly for 3D visualization, and ipywidgets for interactive controls).
+1. **Clone the Repository**: Obtain a copy of the Markdown file by cloning or downloading the repository.
+2. **Install Dependencies**: Ensure you have Python, NumPy, Plotly, and ipywidgets installed as these are required for the interactive parts of the document.
+3. **Run the Document**: Open the Markdown file in a Jupyter environment to enable the execution of code segments and interaction with the visualizations.
 
-## Usage
+## Interactive Elements
 
-1. Open your Jupyter Notebook environment.
-2. Import the necessary Python libraries as specified in the project's dependencies.
-3. Utilize the provided functions for creating the non-uniform grid, calculating the Alcubierre metric, and setting up the interactive visualization.
-4. Execute the notebook to display the default visualization of the Alcubierre Warp Bubble.
-5. Use the interactive sliders to adjust parameters like the warp factor, ship radius, and sigma value to explore different configurations of the warp bubble.
+The Markdown document is designed for interaction in a Jupyter Notebook or JupyterLab. This allows real-time experimentation with the model's parameters such as warp factor, ship radius, and sigma, providing an engaging way to explore the Alcubierre Warp Drive.
 
-## Contributing
+## Contributions
 
-Contributions to this project are welcome. They can be in the form of feature enhancements, bug fixes, documentation improvements, or any other useful additions. Please follow standard open-source contribution guidelines.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Push to the branch.
-5. Create a new Pull Request.
+Contributions are welcomed, especially those that enhance the study, expand on the theoretical content, or refine the interactive visualizations. Please adhere to good coding standards and provide clear documentation of your contributions.
 
 ## License
 
-This project is open-source and is available under the MIT License. This allows for wide use and modification subject to the original licensing terms.
+This project is released under the GNU Affero General Public License. This ensures that all distributed adaptations and network-based uses of this project are available to the public in source form, aligning with the AGPL's requirements.
