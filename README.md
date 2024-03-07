@@ -1,4 +1,5 @@
 # Alcubierre Warp Drive Interactive Study
+![awb](https://github.com/HermiTech-LLC/WB-Viz/blob/main/AWB.PNG)
 
 ## Overview
 
