@@ -16,7 +16,7 @@ The Markdown document consists of various sections:
 - **Interactive Experimentation**: Enables users to manipulate key variables of the warp drive equation, providing a hands-on approach to understand the model's dynamics.
 - **Conclusion and Further Research**: Summarizes the study and suggests directions for additional investigation.
 
-![UI]
+![UI](https://github.com/HermiTech-LLC/WB-Viz/blob/main/IMG_7816.jpeg)
 
 ## Getting Started
 
