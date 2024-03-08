@@ -6,7 +6,7 @@
 This project presents a comprehensive study of the Alcubierre Warp Drive, a theoretical model in physics for faster-than-light travel within general relativity. The study encompasses theoretical foundations, mathematical formulations, and interactive visualizations, offering a rich understanding suitable for both academic and practical exploration.
 [![AWBVIZ Preview](https://github.com/HermiTech-LLC/WB-Viz/blob/main/awb.gif)](https://hermitech-llc.github.io/AWBVIZ/)
 
-Click the image above to view the interactive AWBVIZ tool.
+Click the image above to view the interactive AWBVIZ plot preview.
 ## Document Structure
 
 The Markdown document consists of various sections:
