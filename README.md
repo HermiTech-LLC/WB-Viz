@@ -29,7 +29,7 @@ The Markdown document consists of various sections:
 ## Interactive Elements
 
 The Markdown document is designed for interaction in a Jupyter Notebook or JupyterLab. This allows real-time experimentation with the model's parameters such as warp factor, ship radius, and sigma, providing an engaging way to explore the Alcubierre Warp Drive.
-
+![ui](https://github.com/HermiTech-LLC/WB-Viz/blob/main/IMG_7879.jpeg)
 ## Contributions
 
 Contributions are welcomed, especially those that enhance the study, expand on the theoretical content, or refine the interactive visualizations. Please adhere to good coding standards and provide clear documentation of your contributions.
