@@ -1,13 +1,12 @@
 # Alcubierre Warp Drive Interactive Study
+![awb](https://github.com/HermiTech-LLC/WB-Viz/blob/main/AWB.PNG)
 
 ## Overview
 
 This project presents a comprehensive study of the Alcubierre Warp Drive, a theoretical model in physics for faster-than-light travel within general relativity. The study encompasses theoretical foundations, mathematical formulations, and interactive visualizations, offering a rich understanding suitable for both academic and practical exploration.
-
-![AWB Image](./WB-Viz/AWB.PNG)
+[![AWBVIZ Preview](https://github.com/HermiTech-LLC/WB-Viz/blob/main/awb.gif)](https://hermitech-llc.github.io/AWBVIZ/)
 
 Click the image above to view the interactive AWBVIZ plot preview.
-
 ## Document Structure
 
 The Markdown document consists of various sections:
@@ -19,7 +18,7 @@ The Markdown document consists of various sections:
 - **Interactive Experimentation**: Enables users to manipulate key variables of the warp drive equation, providing a hands-on approach to understand the model's dynamics.
 - **Conclusion and Further Research**: Summarizes the study and suggests directions for additional investigation.
 
-![Static Visualization](./WB-Viz/IMG_7816.jpeg)
+![UI](https://github.com/HermiTech-LLC/WB-Viz/blob/main/IMG_7816.jpeg)
 
 ## Getting Started
 
@@ -30,9 +29,7 @@ The Markdown document consists of various sections:
 ## Interactive Elements
 
 The Markdown document is designed for interaction in a Jupyter Notebook or JupyterLab. This allows real-time experimentation with the model's parameters such as warp factor, ship radius, and sigma, providing an engaging way to explore the Alcubierre Warp Drive.
-
-![Interactive UI](./WB-Viz/IMG_7879.jpeg)
-
+![ui](https://github.com/HermiTech-LLC/WB-Viz/blob/main/IMG_7879.jpeg)
 ## Contributions
 
 Contributions are welcomed, especially those that enhance the study, expand on the theoretical content, or refine the interactive visualizations. Please adhere to good coding standards and provide clear documentation of your contributions.
